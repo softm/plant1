@@ -1,0 +1,473 @@
+{
+  "schema_version": 2,
+  "index_type": "directory-manifest",
+  "summary": {
+    "root": "/Users/softm/Work/farm",
+    "path": ".",
+    "generated_at": "2026-05-06T20:53:54+09:00",
+    "file_count": 6122,
+    "directory_count": 341,
+    "direct_file_count": 8,
+    "direct_directory_count": 12,
+    "total_size": 24705725299,
+    "total_size_human": "23.0 GB"
+  },
+  "tree": {
+    "type": "directory",
+    "name": "farm",
+    "path": ".",
+    "index": "files.json",
+    "modified": "2026-05-06T20:53:45+09:00",
+    "children": [
+      {
+        "type": "directory",
+        "name": "00.농업",
+        "path": "00.농업",
+        "index": "00.농업/files.json",
+        "modified": "2026-05-06T09:46:41+09:00",
+        "file_count": 404,
+        "directory_count": 21,
+        "total_size": 1109940719,
+        "total_size_human": "1.0 GB"
+      },
+      {
+        "type": "directory",
+        "name": "교육신청",
+        "path": "교육신청",
+        "index": "교육신청/files.json",
+        "modified": "2026-03-09T15:29:20+09:00",
+        "file_count": 18,
+        "directory_count": 3,
+        "total_size": 19361872,
+        "total_size_human": "18.5 MB"
+      },
+      {
+        "type": "directory",
+        "name": "교육자료",
+        "path": "교육자료",
+        "index": "교육자료/files.json",
+        "modified": "2026-03-09T15:30:15+09:00",
+        "file_count": 958,
+        "directory_count": 150,
+        "total_size": 2082044789,
+        "total_size_human": "1.9 GB"
+      },
+      {
+        "type": "directory",
+        "name": "구매로그",
+        "path": "구매로그",
+        "index": "구매로그/files.json",
+        "modified": "2026-05-04T13:24:27+09:00",
+        "file_count": 25,
+        "directory_count": 3,
+        "total_size": 56143917,
+        "total_size_human": "53.5 MB"
+      },
+      {
+        "type": "directory",
+        "name": "기타로그",
+        "path": "기타로그",
+        "index": "기타로그/files.json",
+        "modified": "2026-05-06T09:47:05+09:00",
+        "file_count": 46,
+        "directory_count": 2,
+        "total_size": 227458712,
+        "total_size_human": "216.9 MB"
+      },
+      {
+        "type": "directory",
+        "name": "농사",
+        "path": "농사",
+        "index": "농사/files.json",
+        "modified": "2026-05-06T20:32:37+09:00",
+        "file_count": 214,
+        "directory_count": 14,
+        "total_size": 571070045,
+        "total_size_human": "544.6 MB"
+      },
+      {
+        "type": "directory",
+        "name": "방법로그",
+        "path": "방법로그",
+        "index": "방법로그/files.json",
+        "modified": "2026-05-06T11:32:04+09:00",
+        "file_count": 1576,
+        "directory_count": 7,
+        "total_size": 801033492,
+        "total_size_human": "763.9 MB"
+      },
+      {
+        "type": "directory",
+        "name": "재배로그",
+        "path": "재배로그",
+        "index": "재배로그/files.json",
+        "modified": "2026-04-28T23:12:17+09:00",
+        "file_count": 1665,
+        "directory_count": 70,
+        "total_size": 11722482639,
+        "total_size_human": "10.9 GB"
+      },
+      {
+        "type": "directory",
+        "name": "지원사업",
+        "path": "지원사업",
+        "index": "지원사업/files.json",
+        "modified": "2026-03-09T15:32:06+09:00",
+        "file_count": 5,
+        "directory_count": 1,
+        "total_size": 7004414,
+        "total_size_human": "6.7 MB"
+      },
+      {
+        "type": "directory",
+        "name": "교육",
+        "path": "교육",
+        "index": "교육/files.json",
+        "modified": "2026-05-06T11:43:57+09:00",
+        "file_count": 1023,
+        "directory_count": 45,
+        "total_size": 7552612611,
+        "total_size_human": "7.0 GB"
+      },
+      {
+        "type": "directory",
+        "name": "산림조합",
+        "path": "산림조합",
+        "index": "산림조합/files.json",
+        "modified": "2026-03-03T14:07:46+09:00",
+        "file_count": 2,
+        "directory_count": 0,
+        "total_size": 32256,
+        "total_size_human": "31.5 KB"
+      },
+      {
+        "type": "directory",
+        "name": "원예로그",
+        "path": "원예로그",
+        "index": "원예로그/files.json",
+        "modified": "2026-04-30T15:48:37+09:00",
+        "file_count": 178,
+        "directory_count": 13,
+        "total_size": 556463086,
+        "total_size_human": "530.7 MB"
+      },
+      {
+        "type": "file",
+        "name": "AGENTS.md",
+        "path": "AGENTS.md",
+        "extension": "md",
+        "group": "text",
+        "mime_type": null,
+        "size": 330,
+        "size_human": "330 B",
+        "modified": "2026-05-06T11:55:38+09:00"
+      },
+      {
+        "type": "file",
+        "name": "attach.js",
+        "path": "attach.js",
+        "extension": "js",
+        "group": "text",
+        "mime_type": "text/javascript",
+        "size": 1309,
+        "size_human": "1.3 KB",
+        "modified": "2026-05-06T10:21:12+09:00"
+      },
+      {
+        "type": "file",
+        "name": "dataroom.html",
+        "path": "dataroom.html",
+        "extension": "html",
+        "group": "text",
+        "mime_type": "text/html",
+        "size": 16524,
+        "size_human": "16.1 KB",
+        "modified": "2026-05-06T12:21:49+09:00"
+      },
+      {
+        "type": "file",
+        "name": "index.html",
+        "path": "index.html",
+        "extension": "html",
+        "group": "text",
+        "mime_type": "text/html",
+        "size": 47569,
+        "size_human": "46.5 KB",
+        "modified": "2026-05-06T20:19:16+09:00"
+      },
+      {
+        "type": "file",
+        "name": "play.md",
+        "path": "play.md",
+        "extension": "md",
+        "group": "text",
+        "mime_type": null,
+        "size": 167,
+        "size_human": "167 B",
+        "modified": "2026-03-03T14:06:55+09:00"
+      },
+      {
+        "type": "file",
+        "name": "wordcloud.html",
+        "path": "wordcloud.html",
+        "extension": "html",
+        "group": "text",
+        "mime_type": "text/html",
+        "size": 5608,
+        "size_human": "5.5 KB",
+        "modified": "2026-05-06T12:21:53+09:00"
+      },
+      {
+        "type": "file",
+        "name": "work.md",
+        "path": "work.md",
+        "extension": "md",
+        "group": "text",
+        "mime_type": null,
+        "size": 624,
+        "size_human": "624 B",
+        "modified": "2026-05-06T20:29:29+09:00"
+      },
+      {
+        "type": "file",
+        "name": "프롬프트-웹디자인.md",
+        "path": "프롬프트-웹디자인.md",
+        "extension": "md",
+        "group": "text",
+        "mime_type": null,
+        "size": 4616,
+        "size_human": "4.5 KB",
+        "modified": "2026-05-06T13:04:30+09:00"
+      }
+    ],
+    "file_count": 6122,
+    "directory_count": 341,
+    "total_size": 24705725299,
+    "total_size_human": "23.0 GB"
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "AGENTS.md",
+      "path": "AGENTS.md",
+      "extension": "md",
+      "group": "text",
+      "mime_type": null,
+      "size": 330,
+      "size_human": "330 B",
+      "modified": "2026-05-06T11:55:38+09:00"
+    },
+    {
+      "type": "file",
+      "name": "attach.js",
+      "path": "attach.js",
+      "extension": "js",
+      "group": "text",
+      "mime_type": "text/javascript",
+      "size": 1309,
+      "size_human": "1.3 KB",
+      "modified": "2026-05-06T10:21:12+09:00"
+    },
+    {
+      "type": "file",
+      "name": "dataroom.html",
+      "path": "dataroom.html",
+      "extension": "html",
+      "group": "text",
+      "mime_type": "text/html",
+      "size": 16524,
+      "size_human": "16.1 KB",
+      "modified": "2026-05-06T12:21:49+09:00"
+    },
+    {
+      "type": "file",
+      "name": "index.html",
+      "path": "index.html",
+      "extension": "html",
+      "group": "text",
+      "mime_type": "text/html",
+      "size": 47569,
+      "size_human": "46.5 KB",
+      "modified": "2026-05-06T20:19:16+09:00"
+    },
+    {
+      "type": "file",
+      "name": "play.md",
+      "path": "play.md",
+      "extension": "md",
+      "group": "text",
+      "mime_type": null,
+      "size": 167,
+      "size_human": "167 B",
+      "modified": "2026-03-03T14:06:55+09:00"
+    },
+    {
+      "type": "file",
+      "name": "wordcloud.html",
+      "path": "wordcloud.html",
+      "extension": "html",
+      "group": "text",
+      "mime_type": "text/html",
+      "size": 5608,
+      "size_human": "5.5 KB",
+      "modified": "2026-05-06T12:21:53+09:00"
+    },
+    {
+      "type": "file",
+      "name": "work.md",
+      "path": "work.md",
+      "extension": "md",
+      "group": "text",
+      "mime_type": null,
+      "size": 624,
+      "size_human": "624 B",
+      "modified": "2026-05-06T20:29:29+09:00"
+    },
+    {
+      "type": "file",
+      "name": "프롬프트-웹디자인.md",
+      "path": "프롬프트-웹디자인.md",
+      "extension": "md",
+      "group": "text",
+      "mime_type": null,
+      "size": 4616,
+      "size_human": "4.5 KB",
+      "modified": "2026-05-06T13:04:30+09:00"
+    }
+  ],
+  "child_indexes": [
+    {
+      "type": "directory",
+      "name": "00.농업",
+      "path": "00.농업",
+      "index": "00.농업/files.json",
+      "modified": "2026-05-06T09:46:41+09:00",
+      "file_count": 404,
+      "directory_count": 21,
+      "total_size": 1109940719,
+      "total_size_human": "1.0 GB"
+    },
+    {
+      "type": "directory",
+      "name": "교육신청",
+      "path": "교육신청",
+      "index": "교육신청/files.json",
+      "modified": "2026-03-09T15:29:20+09:00",
+      "file_count": 18,
+      "directory_count": 3,
+      "total_size": 19361872,
+      "total_size_human": "18.5 MB"
+    },
+    {
+      "type": "directory",
+      "name": "교육자료",
+      "path": "교육자료",
+      "index": "교육자료/files.json",
+      "modified": "2026-03-09T15:30:15+09:00",
+      "file_count": 958,
+      "directory_count": 150,
+      "total_size": 2082044789,
+      "total_size_human": "1.9 GB"
+    },
+    {
+      "type": "directory",
+      "name": "구매로그",
+      "path": "구매로그",
+      "index": "구매로그/files.json",
+      "modified": "2026-05-04T13:24:27+09:00",
+      "file_count": 25,
+      "directory_count": 3,
+      "total_size": 56143917,
+      "total_size_human": "53.5 MB"
+    },
+    {
+      "type": "directory",
+      "name": "기타로그",
+      "path": "기타로그",
+      "index": "기타로그/files.json",
+      "modified": "2026-05-06T09:47:05+09:00",
+      "file_count": 46,
+      "directory_count": 2,
+      "total_size": 227458712,
+      "total_size_human": "216.9 MB"
+    },
+    {
+      "type": "directory",
+      "name": "농사",
+      "path": "농사",
+      "index": "농사/files.json",
+      "modified": "2026-05-06T20:32:37+09:00",
+      "file_count": 214,
+      "directory_count": 14,
+      "total_size": 571070045,
+      "total_size_human": "544.6 MB"
+    },
+    {
+      "type": "directory",
+      "name": "방법로그",
+      "path": "방법로그",
+      "index": "방법로그/files.json",
+      "modified": "2026-05-06T11:32:04+09:00",
+      "file_count": 1576,
+      "directory_count": 7,
+      "total_size": 801033492,
+      "total_size_human": "763.9 MB"
+    },
+    {
+      "type": "directory",
+      "name": "재배로그",
+      "path": "재배로그",
+      "index": "재배로그/files.json",
+      "modified": "2026-04-28T23:12:17+09:00",
+      "file_count": 1665,
+      "directory_count": 70,
+      "total_size": 11722482639,
+      "total_size_human": "10.9 GB"
+    },
+    {
+      "type": "directory",
+      "name": "지원사업",
+      "path": "지원사업",
+      "index": "지원사업/files.json",
+      "modified": "2026-03-09T15:32:06+09:00",
+      "file_count": 5,
+      "directory_count": 1,
+      "total_size": 7004414,
+      "total_size_human": "6.7 MB"
+    },
+    {
+      "type": "directory",
+      "name": "교육",
+      "path": "교육",
+      "index": "교육/files.json",
+      "modified": "2026-05-06T11:43:57+09:00",
+      "file_count": 1023,
+      "directory_count": 45,
+      "total_size": 7552612611,
+      "total_size_human": "7.0 GB"
+    },
+    {
+      "type": "directory",
+      "name": "산림조합",
+      "path": "산림조합",
+      "index": "산림조합/files.json",
+      "modified": "2026-03-03T14:07:46+09:00",
+      "file_count": 2,
+      "directory_count": 0,
+      "total_size": 32256,
+      "total_size_human": "31.5 KB"
+    },
+    {
+      "type": "directory",
+      "name": "원예로그",
+      "path": "원예로그",
+      "index": "원예로그/files.json",
+      "modified": "2026-04-30T15:48:37+09:00",
+      "file_count": 178,
+      "directory_count": 13,
+      "total_size": 556463086,
+      "total_size_human": "530.7 MB"
+    }
+  ],
+  "errors": []
+}
