@@ -2,9 +2,9 @@
   "schema_version": 2,
   "index_type": "directory-manifest",
   "summary": {
-    "root": "/home/runner/work/plant1/plant1/구매로그",
-    "path": "구매로그",
-    "generated_at": "2026-05-08T11:01:30+00:00",
+    "root": "/home/runner/work/plant1/plant1/구매로그-private",
+    "path": "구매로그-private",
+    "generated_at": "2026-05-08T11:09:04+00:00",
     "file_count": 25,
     "directory_count": 3,
     "direct_file_count": 0,
@@ -14,54 +14,54 @@
   },
   "tree": {
     "type": "directory",
-    "name": "구매로그",
-    "path": "구매로그",
-    "index": "구매로그/files.json",
-    "modified": "2026-05-08T11:01:29+00:00",
+    "name": "구매로그-private",
+    "path": "구매로그-private",
+    "index": "구매로그-private/files.json",
+    "modified": "2026-05-08T11:09:04+00:00",
     "children": [
       {
         "type": "directory",
         "name": "20260428_루팅파우더_발근제",
-        "path": "구매로그/20260428_루팅파우더_발근제",
-        "index": "구매로그/20260428_루팅파우더_발근제/files.json",
-        "modified": "2026-05-08T11:01:29+00:00",
+        "path": "구매로그-private/20260428_루팅파우더_발근제",
+        "index": "구매로그-private/20260428_루팅파우더_발근제/files.json",
+        "modified": "2026-05-08T11:09:04+00:00",
         "file_count": 6,
         "directory_count": 0,
         "total_size": 12865963,
         "total_size_human": "12.3 MB",
         "security": {
-          "private": false,
-          "source": "public"
+          "private": true,
+          "source": "suffix-or-grant"
         }
       },
       {
         "type": "directory",
         "name": "20260501_호스릴_호스감개_모자_알리",
-        "path": "구매로그/20260501_호스릴_호스감개_모자_알리",
-        "index": "구매로그/20260501_호스릴_호스감개_모자_알리/files.json",
-        "modified": "2026-05-08T11:01:29+00:00",
+        "path": "구매로그-private/20260501_호스릴_호스감개_모자_알리",
+        "index": "구매로그-private/20260501_호스릴_호스감개_모자_알리/files.json",
+        "modified": "2026-05-08T11:09:04+00:00",
         "file_count": 11,
         "directory_count": 0,
         "total_size": 23032378,
         "total_size_human": "22.0 MB",
         "security": {
-          "private": false,
-          "source": "public"
+          "private": true,
+          "source": "suffix-or-grant"
         }
       },
       {
         "type": "directory",
         "name": "20260503_4방향_플라스틱_볼밸브_전지가위_테무",
-        "path": "구매로그/20260503_4방향_플라스틱_볼밸브_전지가위_테무",
-        "index": "구매로그/20260503_4방향_플라스틱_볼밸브_전지가위_테무/files.json",
-        "modified": "2026-05-08T11:01:29+00:00",
+        "path": "구매로그-private/20260503_4방향_플라스틱_볼밸브_전지가위_테무",
+        "index": "구매로그-private/20260503_4방향_플라스틱_볼밸브_전지가위_테무/files.json",
+        "modified": "2026-05-08T11:09:04+00:00",
         "file_count": 8,
         "directory_count": 0,
         "total_size": 20245576,
         "total_size_human": "19.3 MB",
         "security": {
-          "private": false,
-          "source": "public"
+          "private": true,
+          "source": "suffix-or-grant"
         }
       }
     ],
@@ -70,8 +70,8 @@
     "total_size": 56143917,
     "total_size_human": "53.5 MB",
     "security": {
-      "private": false,
-      "source": "public"
+      "private": true,
+      "source": "suffix-or-grant"
     }
   },
   "files": [],
@@ -79,46 +79,46 @@
     {
       "type": "directory",
       "name": "20260428_루팅파우더_발근제",
-      "path": "구매로그/20260428_루팅파우더_발근제",
-      "index": "구매로그/20260428_루팅파우더_발근제/files.json",
-      "modified": "2026-05-08T11:01:29+00:00",
+      "path": "구매로그-private/20260428_루팅파우더_발근제",
+      "index": "구매로그-private/20260428_루팅파우더_발근제/files.json",
+      "modified": "2026-05-08T11:09:04+00:00",
       "file_count": 6,
       "directory_count": 0,
       "total_size": 12865963,
       "total_size_human": "12.3 MB",
       "security": {
-        "private": false,
-        "source": "public"
+        "private": true,
+        "source": "suffix-or-grant"
       }
     },
     {
       "type": "directory",
       "name": "20260501_호스릴_호스감개_모자_알리",
-      "path": "구매로그/20260501_호스릴_호스감개_모자_알리",
-      "index": "구매로그/20260501_호스릴_호스감개_모자_알리/files.json",
-      "modified": "2026-05-08T11:01:29+00:00",
+      "path": "구매로그-private/20260501_호스릴_호스감개_모자_알리",
+      "index": "구매로그-private/20260501_호스릴_호스감개_모자_알리/files.json",
+      "modified": "2026-05-08T11:09:04+00:00",
       "file_count": 11,
       "directory_count": 0,
       "total_size": 23032378,
       "total_size_human": "22.0 MB",
       "security": {
-        "private": false,
-        "source": "public"
+        "private": true,
+        "source": "suffix-or-grant"
       }
     },
     {
       "type": "directory",
       "name": "20260503_4방향_플라스틱_볼밸브_전지가위_테무",
-      "path": "구매로그/20260503_4방향_플라스틱_볼밸브_전지가위_테무",
-      "index": "구매로그/20260503_4방향_플라스틱_볼밸브_전지가위_테무/files.json",
-      "modified": "2026-05-08T11:01:29+00:00",
+      "path": "구매로그-private/20260503_4방향_플라스틱_볼밸브_전지가위_테무",
+      "index": "구매로그-private/20260503_4방향_플라스틱_볼밸브_전지가위_테무/files.json",
+      "modified": "2026-05-08T11:09:04+00:00",
       "file_count": 8,
       "directory_count": 0,
       "total_size": 20245576,
       "total_size_human": "19.3 MB",
       "security": {
-        "private": false,
-        "source": "public"
+        "private": true,
+        "source": "suffix-or-grant"
       }
     }
   ],
