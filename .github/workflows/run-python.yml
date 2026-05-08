@@ -43,7 +43,10 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          find . \( -name "files.json" -o -name "files.html" \) -print0 | xargs -0 git add
+          find . \
+            \( -name "files.json" -o -name "files.html" \) \
+            ! -path "./.github/*" \
+            -print0 | xargs -0 git add
 
           if git diff --cached --quiet; then
             echo "No generated file changes to commit."
