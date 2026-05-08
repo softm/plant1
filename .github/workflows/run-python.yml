@@ -17,9 +17,9 @@ jobs:
       with:
         python-version: '3.9'
 
-    - name: Install dependencies
-      run: |
-        pip install -r requirements.txt # 필요한 경우
+    # - name: Install dependencies
+      # run: |
+        # pip install -r requirements.txt # 필요한 경우
 
     - name: Run script
       run: python python/gen_files_json.py --outputs json,html . # 실행할 파일명
